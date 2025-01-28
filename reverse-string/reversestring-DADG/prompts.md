@@ -1,0 +1,2 @@
+1. Hola, quiero realizar una pagína web en javascript y html que en este ultimo cuente con un componente que permita escribir un texto, y que al presionar el boton con label reverse-string y que en la parte lógica de jsvascript permita generar un texto invertido que pueda ser mostrado mediante el html que contiene el componente anterior
+2. me gustaria tener separada la lógica del sctipt en un archivo .js y la parte visual en un archivo .html
